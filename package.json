@@ -1,0 +1,40 @@
+{
+  "name": "digital-herb-gardener",
+  "version": "1.0.0",
+  "description": "Enables developers to create and manage virtual reality experiences, providing immersive environments for education and entertainment.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/digital-herb-gardener"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "starlight-canvas-painter": "1.0.0",
+    "quantum-spirit-guide": "1.0.0",
+    "bluebird": "1.0.0",
+    "chalk": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "web3": "1.0.0",
+    "request": "1.0.0",
+    "moment": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "underscore": "1.0.0",
+    "jest": "1.0.0",
+    "socket.io": "1.0.0",
+    "axios": "1.0.0",
+    "sinon": "1.0.0",
+    "mocha": "1.0.0",
+    "react-redux": "1.0.0",
+    "dotenv": "1.0.0",
+    "ethers": "1.0.0",
+    "firebase": "1.0.0"
+  }
+}
